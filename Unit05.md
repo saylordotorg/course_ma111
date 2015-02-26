@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA111: Introduction to Mathematical Reasoning"
+course_description: "An examination of the language and practice of set theory, and the theory and practice of mathematical proof, with the purpose of guiding you from 'doing mathematics' at an elementary (i.e. problem-solving) level to 'doing mathematics' at an advanced level."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Mathematical Induction** <span id="5"></span> 
 *In this unit, you will prove propositions about an infinite set of
 positive integers.  Mathematical induction is a technique used to

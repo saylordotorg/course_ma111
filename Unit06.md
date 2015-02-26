@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA111: Introduction to Mathematical Reasoning"
+course_description: "An examination of the language and practice of set theory, and the theory and practice of mathematical proof, with the purpose of guiding you from 'doing mathematics' at an elementary (i.e. problem-solving) level to 'doing mathematics' at an advanced level."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Relations and Functions** <span id="6"></span> 
 *In this unit, you will learn about binary relations from a set **A** to
 a set **B**.  Some of these relations are functions from **A** to **B**.

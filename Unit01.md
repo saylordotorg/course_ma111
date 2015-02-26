@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA111: Introduction to Mathematical Reasoning"
+course_description: "An examination of the language and practice of set theory, and the theory and practice of mathematical proof, with the purpose of guiding you from 'doing mathematics' at an elementary (i.e. problem-solving) level to 'doing mathematics' at an advanced level."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Logic** <span id="1"></span> 
 *In this unit, you will begin by considering various puzzles, including
 Ken-Ken and Sudoku.  You will learn the importance of tenacity in

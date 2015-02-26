@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA111: Introduction to Mathematical Reasoning"
+course_description: "An examination of the language and practice of set theory, and the theory and practice of mathematical proof, with the purpose of guiding you from 'doing mathematics' at an elementary (i.e. problem-solving) level to 'doing mathematics' at an advanced level."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Combinatorics** <span id="8"></span> 
 *In this unit, you will learn to count.  That is, you will learn to
 classify the objects of a set in such a way that one of several

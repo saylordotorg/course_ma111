@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA111: Introduction to Mathematical Reasoning"
+course_description: "An examination of the language and practice of set theory, and the theory and practice of mathematical proof, with the purpose of guiding you from 'doing mathematics' at an elementary (i.e. problem-solving) level to 'doing mathematics' at an advanced level."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Sets, Part II** <span id="7"></span> 
 *In this unit, you will study cardinality.  One startling realization is
 that not all infinite sets are the same size.  In fact, there are many

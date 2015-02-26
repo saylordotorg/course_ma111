@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA111: Introduction to Mathematical Reasoning"
+course_description: "An examination of the language and practice of set theory, and the theory and practice of mathematical proof, with the purpose of guiding you from 'doing mathematics' at an elementary (i.e. problem-solving) level to 'doing mathematics' at an advanced level."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Rational Numbers** <span id="4"></span> 
 *In this unit, you will learn to prove some basic properties of rational
 numbers.  For example, the set of rational numbers is dense in the set

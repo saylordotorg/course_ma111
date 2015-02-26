@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA111: Introduction to Mathematical Reasoning"
+course_description: "An examination of the language and practice of set theory, and the theory and practice of mathematical proof, with the purpose of guiding you from 'doing mathematics' at an elementary (i.e. problem-solving) level to 'doing mathematics' at an advanced level."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Sets, Part I** <span id="2"></span> 
 *In this unit, you will explore the ideas of what is called ‘naive set
 theory.’  Contrasted with ‘axiomatic set theory,’ naive set theory

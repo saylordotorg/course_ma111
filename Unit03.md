@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA111: Introduction to Mathematical Reasoning"
+course_description: "An examination of the language and practice of set theory, and the theory and practice of mathematical proof, with the purpose of guiding you from 'doing mathematics' at an elementary (i.e. problem-solving) level to 'doing mathematics' at an advanced level."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Introduction to Number Theory** <span id="3"></span> 
 *This unit is primarily concerned with the set of natural numbers*
 ***N*** *= {0****,*** *1****,*** *2****,*** *3****, . . .****}.  The
